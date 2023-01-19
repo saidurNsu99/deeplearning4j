@@ -5,6 +5,13 @@ thinking about adding maven as a builder
 lombok will be there 
 and also deepleaning4j dependency
 
+
+###########################
+
+
+
+
+
 as for some fun wrote a song  with gpt :P
 Verse 1:
 Listen up, I got a story to tell
