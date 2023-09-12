@@ -1,5 +1,5 @@
 # deeplearning4j
-i am starting to take interest in  AI , so her i go with java and spring boot at my dispossal
+i am starting to take interest in  AI , so here i go with java and spring boot at my dispossal
 
 thinking about adding maven as a builder 
 lombok will be there 
